@@ -1,2 +1,2 @@
-# C-
-Belajar C#
+# C-Sharp
+Belajar C# (C-Sharp)
