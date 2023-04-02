@@ -1,5 +1,5 @@
 ## Daftar Isi
-[Cara Mendifinisikan Variabel] (#variabel)
+[Cara Mendifinisikan Variabel](#variabel)
 Tipe Data
 Manipulasi String
 Manipulasi Angka
@@ -22,6 +22,6 @@ getSet
 Static Calss Attributes
 Static Methods and Classes
 Inheritance
-##
+
 
 1. Cara Mendifinisikan Variabel
