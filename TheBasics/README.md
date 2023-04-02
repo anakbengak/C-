@@ -1,4 +1,4 @@
-Daftar Isi
+## Daftar Isi
 1. [Cara Mendifinisikan Variabel] (#variabel)
 2. Tipe Data
 3. Manipulasi String
