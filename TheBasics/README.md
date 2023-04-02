@@ -19,10 +19,31 @@
 18. menggunakan Konstruktor
 19. objectMethods
 20. getSet
-21. Static Calss Attributes
+21. Static Class Attributes
 22. Static Methods and Classes
 23. Inheritance
 
 
 ## Cara Mendefinisikan Variabel
 ## Tipe Data
+## Manipulasi String
+## Manipulasi Angka
+## Mendapatkan Input dari User
+## Bekerja dengan Array Sederhana
+## Cara Menggunakan Method
+## Menggunakan Return
+## ifStatement
+## ifConditioned
+## Menggunakan Switch
+## Menggunakan Loops
+## menggunakan For
+## exponentMethod
+## arrayDuaDimensi
+## menanganiException
+## Kelas dan Objek
+## menggunakan Konstruktor
+## objectMethods
+## getSet
+## Static Class Attributes
+## Static Methods and Classes
+## Inheritance
