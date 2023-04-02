@@ -47,6 +47,7 @@ Berikut  syntax template lengkapnya (gunakan Short Name untuk projectType nya):
 |WPF User Control Library                    |wpfusercontrollib  |[C#],VB    |Common/WPF
 |xUnit Test Project                          |xunit              |[C#],F#,VB |Test/xUnit
 
+Selengkapnya dapat dilihat di https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-new
 
 ## Daftar Isi
 1. [Cara Mendefinisikan Variabel](#cara-mendefinisikan-variabel)
