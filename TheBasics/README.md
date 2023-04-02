@@ -1,10 +1,10 @@
 ## Inisialisasi Project menggunakan terminal
 ```bash
-dotnet new [projectType] -o projectName
+dotnet new [projectType] -o ProjectName
 ```
 Misal : Untuk membuat Console Project (program yang berjalan pada terminal/cli)
 ```bash
-dotnet new console -o namaProject
+dotnet new console -o NamaProject
 ```
 
 ## Daftar Isi
