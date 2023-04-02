@@ -1,5 +1,5 @@
 ## Daftar Isi
-1. [Cara Mendifinisikan Variabel](#cara-mendefinisikan-variabel)
+1. [Cara Mendefinisikan Variabel](#cara-mendefinisikan-variabel)
 2. [Tipe Data](#tipe-data)
 3. Manipulasi String
 4. Manipulasi Angka
@@ -24,5 +24,5 @@
 23. Inheritance
 
 
-## Cara Mendifinisikan Variabel
+## Cara Mendefinisikan Variabel
 ## Tipe Data
