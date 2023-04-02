@@ -24,4 +24,4 @@
 23. Inheritance
 
 
-## 1. Cara Mendifinisikan Variabel
+## Cara Mendifinisikan Variabel
