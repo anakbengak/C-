@@ -1,5 +1,6 @@
 ## Daftar Isi
-200. [Contoh Pertama Saya](#contoh-pertama-saya)
+0. [Contoh Pertama Saya](#contoh-pertama-saya)
+[Contoh Kedua Saya](#contoh-kedua-saya)
 1. [Cara Mendifinisikan Variabel](#cara-mendefinisikan-variabel)
 2. Tipe Data
 3. Manipulasi String
@@ -26,4 +27,5 @@
 
 
 ## Contoh Pertama Saya
+## Contoh Kedua Saya
 ## Cara Mendifinisikan Variabel
