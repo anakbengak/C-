@@ -1,0 +1,15 @@
+D:\1. PROJECT\C#\C-Sharp\TheBasics\MenggunakanClassDanObject\bin\Debug\net6.0\MenggunakanClassDanObject.exe
+D:\1. PROJECT\C#\C-Sharp\TheBasics\MenggunakanClassDanObject\bin\Debug\net6.0\MenggunakanClassDanObject.deps.json
+D:\1. PROJECT\C#\C-Sharp\TheBasics\MenggunakanClassDanObject\bin\Debug\net6.0\MenggunakanClassDanObject.runtimeconfig.json
+D:\1. PROJECT\C#\C-Sharp\TheBasics\MenggunakanClassDanObject\bin\Debug\net6.0\MenggunakanClassDanObject.dll
+D:\1. PROJECT\C#\C-Sharp\TheBasics\MenggunakanClassDanObject\bin\Debug\net6.0\MenggunakanClassDanObject.pdb
+D:\1. PROJECT\C#\C-Sharp\TheBasics\MenggunakanClassDanObject\obj\Debug\net6.0\MenggunakanClassDanObject.csproj.AssemblyReference.cache
+D:\1. PROJECT\C#\C-Sharp\TheBasics\MenggunakanClassDanObject\obj\Debug\net6.0\MenggunakanClassDanObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. PROJECT\C#\C-Sharp\TheBasics\MenggunakanClassDanObject\obj\Debug\net6.0\MenggunakanClassDanObject.AssemblyInfoInputs.cache
+D:\1. PROJECT\C#\C-Sharp\TheBasics\MenggunakanClassDanObject\obj\Debug\net6.0\MenggunakanClassDanObject.AssemblyInfo.cs
+D:\1. PROJECT\C#\C-Sharp\TheBasics\MenggunakanClassDanObject\obj\Debug\net6.0\MenggunakanClassDanObject.csproj.CoreCompileInputs.cache
+D:\1. PROJECT\C#\C-Sharp\TheBasics\MenggunakanClassDanObject\obj\Debug\net6.0\MenggunakanClassDanObject.dll
+D:\1. PROJECT\C#\C-Sharp\TheBasics\MenggunakanClassDanObject\obj\Debug\net6.0\refint\MenggunakanClassDanObject.dll
+D:\1. PROJECT\C#\C-Sharp\TheBasics\MenggunakanClassDanObject\obj\Debug\net6.0\MenggunakanClassDanObject.pdb
+D:\1. PROJECT\C#\C-Sharp\TheBasics\MenggunakanClassDanObject\obj\Debug\net6.0\MenggunakanClassDanObject.genruntimeconfig.cache
+D:\1. PROJECT\C#\C-Sharp\TheBasics\MenggunakanClassDanObject\obj\Debug\net6.0\ref\MenggunakanClassDanObject.dll
