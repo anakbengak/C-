@@ -41,6 +41,13 @@
 ## arrayDuaDimensi
 ## Menangani Exception
 ## Kelas dan Objek
+Penamaan Class menggunakan huruf Besar pada setiap awal kata.
+misal : class buku, ditulis Buku
+```C#
+class Buku{
+
+}
+```
 ## menggunakan Konstruktor
 ## Object dan Methods
 ## getSet
