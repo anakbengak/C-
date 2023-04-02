@@ -2,20 +2,13 @@
 
 namespace TheBasics
 {
-    class MenggunakanObjectBuku
+    class MenggunakanKonstruktor
     {
         static void Main(string[] args)
         {
-            Buku bukuSatu = new Buku();
-            bukuSatu.judulBuku="Buku Saku";
-            bukuSatu.jumlahHalaman=129;
-            bukuSatu.penulis="Penulis Buku Saku";
+            Buku bukuSatu = new Buku("Buku Saku", 129, "Penulis Buku Saku");
+            Buku bukuDua = new Buku("Buku Dua", 901, "Penulis Buku Dua");
 
-            Buku bukuDua = new Buku();
-            bukuDua.judulBuku="Buku Dua";
-            bukuDua.jumlahHalaman=900;
-            bukuDua.penulis="Penulis Buku Dua";
-            
             Console.WriteLine(bukuSatu.judulBuku);
             Console.WriteLine(bukuSatu.jumlahHalaman);
             Console.WriteLine(bukuSatu.penulis);

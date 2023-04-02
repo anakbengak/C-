@@ -138,8 +138,6 @@ namespace TheBasics
 		}
 	}
 }
-
-
 ```
 Note: Membuat Class file
 - Visual Studio :
@@ -155,6 +153,45 @@ Selengkapnya cek di direktori [TheBasics/MenggunakanClassDanObject](https://gith
 
 
 ## menggunakan Konstruktor
+Konstruktor/Constructors adalah sebuat method dalam sebuah class yang akan dijalankan saat kita akan membuat objek pada class tersebut. 
+Misal : kita memiliki class Buku pada pembahasan sebelumnya. Lalu kita akan membuat constructor untuk class tersebut.
+```C#
+namespace TheBasics{
+	class Buku{
+		public string judulBuku;
+		public int jumlahHalaman;
+		public string penulis;
+		
+		public Buku(string aJudul, int aHalaman, string aPenulis)
+		{
+			judulBuku = aJudul;
+			jumlahHalaman = aHalaman;
+			penulis = aPenulis;
+		}
+	}
+}
+```
+Lalu pada bagian program, kita ubah code nya menjadi:
+```C#
+using System;
+
+namespace TheBasics
+{
+	class MenggunakanKonstruktor
+	{
+		static void Main(string[] args)
+		{
+			Buku bukuSatu = new Buku("Buku Saku", 129, "Penulis Buku Saku");
+			
+			Console.WriteLine(bukusatu.judulBuku);
+			Console.ReadLine();
+		}
+	}
+}
+```
+Selengkapnya cek di direktori [TheBasics/MenggunakanKonstruktor](https://github.com/anakbengak/C-Sharp/tree/main/TheBasics/MenggunakanKonstruktor)
+
+
 ## Object dan Methods
 ## getSet
 ## Static Class Attributes
