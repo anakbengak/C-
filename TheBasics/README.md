@@ -1,3 +1,12 @@
+## Inisialisasi Project menggunakan terminal
+```bash
+dotnet new [projectType] -o projectName
+```
+Misal : Untuk membuat Console Project (program yang berjalan pada terminal/cli)
+```bash
+dotnet new console -o namaProject
+```
+
 ## Daftar Isi
 1. [Cara Mendefinisikan Variabel](#cara-mendefinisikan-variabel)
 2. [Tipe Data](#tipe-data)
@@ -41,13 +50,68 @@
 ## arrayDuaDimensi
 ## Menangani Exception
 ## Kelas dan Objek
+Dalam C#, class dapat menjadi tipe data baru.
 Penamaan Class menggunakan huruf Besar pada setiap awal kata.
-misal : class buku, ditulis Buku
+misal : class buku, ditulis "Buku"
 ```C#
 class Buku{
 
 }
 ```
+Dalam setiap class, terdapat attributes.
+Attributes adalah sekumpulan data tertentu yang spesifik untuk class tersebut.
+penulisan attributes menggunakan huruf kecil pada awal kata pertama, lalu menggunakan huruf besar pada setiap awal kata berikutnya.
+Misal : attribute judul buku ditulis "judulBuku". Attribute jumlah halaman ditulis "jumlahHalaman".
+Jika kita gabungkan dengan class Buku, maka menjadi:
+```C#
+namespace TheBasics{
+	class Buku{
+		public string judulBuku;
+		public int jumlahHalaman;
+		public string penulis;
+		
+	}
+}
+```
+Object adalah entitas yang dihasilkan dengan menginputkan nilai tertentu ke dalam sebuah kelas.
+Misalkan kita telah membuat class Buku, lalu kita ingin membuat object dari class tersebut.
+Ingat, class Buku telah menjadi tipe data baru.
+Inisialisasinya adalah sebagai berikut:
+```C#
+using System;
+
+namespace TheBasics
+{
+	class MenggunakanClassDanObject
+	{
+		static void Main(string[] args)
+		{
+			Buku bukuSatu = new Buku();
+			bukusatu.judulBuku="Buku Saku";
+			bukusatu.jumlahHalaman=129;
+			bukusatu.penulis="Penulis Buku Saku";
+			
+			Console.WriteLine(bukusatu.judulBuku);
+			Console.ReadLine();
+		}
+	}
+}
+
+
+```
+Note: Membuat Class file
+- Visual Studio :
+	Di bagian Solusion Explorer (sebelah kanan), klik kanan pada nama project->add->new item.
+	Pilih "Class".
+	Beri nama class, misal untuk class Buku: Buku.cs
+	
+- VS Code :
+	Klik Kanan pada Folder Project di bagian Explorer -> new File
+	Beri nama Buku.cs
+	
+Selengkapnya cek di direktori [TheBasics/MenggunakanClassDanObject](https://github.com/anakbengak/C-Sharp/tree/main/TheBasics/MenggunakanClassDanObject)
+
+
 ## menggunakan Konstruktor
 ## Object dan Methods
 ## getSet
