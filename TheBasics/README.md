@@ -1,8 +1,6 @@
 ## Daftar Isi
-0. [Contoh Pertama Saya](#contoh-pertama-saya)
-[Contoh Kedua Saya](#contoh-kedua-saya)
 1. [Cara Mendifinisikan Variabel](#cara-mendefinisikan-variabel)
-2. Tipe Data
+2. [Tipe Data](#tipe-data)
 3. Manipulasi String
 4. Manipulasi Angka
 5. Mendapatkan Input dari User
@@ -26,6 +24,5 @@
 23. Inheritance
 
 
-## Contoh Pertama Saya
-## Contoh Kedua Saya
 ## Cara Mendifinisikan Variabel
+## Tipe Data
