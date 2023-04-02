@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1. PROJECT\\C#\\1.Belajar\\HelloFolks\\HelloFolks\\HelloFolks.csproj",
+      "projectUniqueName": "D:\\1. PROJECT\\C#\\C-Sharp\\HelloFolks\\HelloFolks\\HelloFolks.csproj",
       "projectName": "HelloFolks",
-      "projectPath": "D:\\1. PROJECT\\C#\\1.Belajar\\HelloFolks\\HelloFolks\\HelloFolks.csproj",
+      "projectPath": "D:\\1. PROJECT\\C#\\C-Sharp\\HelloFolks\\HelloFolks\\HelloFolks.csproj",
       "packagesPath": "C:\\Users\\ADE\\.nuget\\packages\\",
-      "outputPath": "D:\\1. PROJECT\\C#\\1.Belajar\\HelloFolks\\HelloFolks\\obj\\",
+      "outputPath": "D:\\1. PROJECT\\C#\\C-Sharp\\HelloFolks\\HelloFolks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADE\\AppData\\Roaming\\NuGet\\NuGet.Config",
